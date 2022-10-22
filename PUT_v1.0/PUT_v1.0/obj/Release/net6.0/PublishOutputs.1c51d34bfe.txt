@@ -1,0 +1,4 @@
+C:\Users\puche\Documents\cAlgo\Sources\Robots\PUT_v1.0\PUT_v1.0\bin\Release\net6.0\publish\PUT_v1.0.dll
+C:\Users\puche\Documents\cAlgo\Sources\Robots\PUT_v1.0\PUT_v1.0\bin\Release\net6.0\publish\PUT_v1.0.deps.json
+C:\Users\puche\Documents\cAlgo\Sources\Robots\PUT_v1.0\PUT_v1.0\bin\Release\net6.0\publish\PUT_v1.0.pdb
+C:\Users\puche\Documents\cAlgo\Sources\Robots\PUT_v1.0\PUT_v1.0\bin\Release\net6.0\publish\cAlgo.API.dll

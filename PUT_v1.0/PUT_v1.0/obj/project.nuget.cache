@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ZMGRS74WqBnXpCMK+Ba0lkApliRj6nrN5BYJOZt/jOF718q3tp7jyjz9bDLO1/kW08whMGPVVizLBXyCDm1iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\puche\\Documents\\cAlgo\\Sources\\Robots\\PUT_v1.0\\PUT_v1.0\\PUT_v1.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\puche\\.nuget\\packages\\ctrader.automate\\1.0.4\\ctrader.automate.1.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
